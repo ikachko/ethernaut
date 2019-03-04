@@ -345,6 +345,21 @@
       "deployId": "22",
       "instanceGas": 250000,
       "author": "34x4p08"
+    },
+    {
+      "name": "LockedRoom",
+      "created": "2019-03-03",
+      "difficulty": "10",
+      "description": "locked_room.md",
+      "completedDescription": "locked_room_complete.md",
+      "levelContract": "LockedRoomFactory.sol",
+      "instanceContract": "LockedRoom.sol",
+      "revealCode": true,
+      "deployParams": [],
+      "deployFunds": 0,
+      "deployId": "23",
+      "instanceGas": 450000,
+      "author": "ikachko"
     }
   ]
 }
